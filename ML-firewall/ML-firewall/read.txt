@@ -1,0 +1,3 @@
+koddagi fayl joylashuvi Windows/Linuxga qarab o'zgartrilsin!!
+main.py
+src/train.py
